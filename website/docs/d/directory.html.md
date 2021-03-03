@@ -26,7 +26,7 @@ The following arguments are supported:
 
 * `overwrite` - (Optional) Whether to delete preexisting nodes at the path
 
-* `mode` - (Optional) The directory's permission mode. Note that the mode must be properly specified as a decimal value (i.e. 0755 -> 493).
+* `mode` - (Optional) The directory's permission mode. Note that the mode must be properly specified as a decimal value, not octal (i.e. 0755 -> 493).
 
 * `uid` - (Optional) The user ID of the owner.
 
