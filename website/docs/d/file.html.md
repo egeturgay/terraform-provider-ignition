@@ -42,7 +42,7 @@ The following arguments are supported:
 
 * `path` - (Required) The absolute path to the file.
 
-* `overwrite` - (Optional) Whether to delete preexisting nodes at the path. Defaults to true.
+* `overwrite` - (Optional) Whether to delete preexisting nodes at the path. Defaults to false.
 
 * `content` - (Optional) Block to provide the file content inline.
 

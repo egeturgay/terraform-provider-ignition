@@ -24,7 +24,7 @@ The following arguments are supported:
 
 * `path` - (Required) The absolute path to the directory.
 
-* `overwrite` - (Optional) Whether to delete preexisting nodes at the path
+* `overwrite` - (Optional) Whether to delete preexisting nodes at the path. Defaults to false.
 
 * `mode` - (Optional) The directory's permission mode. Note that the mode must be properly specified as a decimal value, not octal (i.e. 0755 -> 493).
 
